@@ -1,5 +1,5 @@
-int a=9000
-int b=69
+a=9000
+b=69
 
 sum=a+b
 print(sum)
